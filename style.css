@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0px;
+}
+#marq {
+    margin-bottom: 0;
+}
+#img {
+    margin-top: 0;
+}
